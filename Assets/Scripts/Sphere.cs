@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
 
-public class SphereController : MonoBehaviour
+public class Sphere : MonoBehaviour
 {
     Rigidbody rb;
     float moveTimer = 0;

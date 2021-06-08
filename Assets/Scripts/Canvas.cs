@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
-public class CanvasController : MonoBehaviour
+public class Canvas : MonoBehaviour
 {
     // サンプル画像さいとのURI
     const string URI = "https://picsum.photos/200";

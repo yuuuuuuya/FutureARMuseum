@@ -36,9 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CanvasController.cs" />
+     <Compile Include="Assets\Scripts\Canvas.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
-     <Compile Include="Assets\Scripts\SphereController.cs" />
+     <Compile Include="Assets\Scripts\Sphere.cs" />
      <None Include="Assets\Shaders\MovieScreen.shader" />
      <None Include="Assets\Shaders\Sphere.shader" />
     <Reference Include="UnityEngine">
