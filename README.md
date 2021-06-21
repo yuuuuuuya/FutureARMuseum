@@ -11,7 +11,7 @@ Green:360度パノラマ<br>
 
 [![demo](https://github.com/yuuuuuuya/FutureARMuseum/wiki/images/futureARmuseum.gif)](https://github.com/yuuuuuuya/FutureARMuseum/wiki/images/futureARmuseum.gif)
 
-# implementation
+# Implementation
 
 - 球体を押しのける操作<br>
 球体を押下し押しのける操作をする為に、raycastが当たる球体表面の法線を取得。<br>
